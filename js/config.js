@@ -1,7 +1,7 @@
 //******** configuración **********************//
-url = "http://mapea-sigc.juntadeandalucia.es/sepim_server/api";
-urlGB = "http://geobusquedas-sigc.juntadeandalucia.es/geobusquedas/[CORE]"; //JGL - vacío si no tiene GB
-idAplicacion = 33; //id de la aplicación
+url = "http://www.callejerodeandalucia.es/pruebas/sepim/";
+urlGB = "http://geobusquedas-sigc.juntadeandalucia.es/geobusquedas/sbarrameda_SEPIM"; //JGL - vacío si no tiene GB
+idAplicacion = 36; //id de la aplicación
 //*********************************************//
 aplicacion = null;
 pilaCategorias = [];
