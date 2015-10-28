@@ -1,5 +1,6 @@
 //******** configuración **********************//
-url = "http://www.callejerodeandalucia.es/sepim/api";
+url = "http://mapea-sigc.juntadeandalucia.es/sepim_server/api";
+//url = "http://www.callejerodeandalucia.es/sepim/api";
 urlGB = "http://geobusquedas-sigc.juntadeandalucia.es/geobusquedas/sepim_sbarrameda"; //JGL - vacío si no tiene GB
 idAplicacion = 36; //id de la aplicación
 //*********************************************//
